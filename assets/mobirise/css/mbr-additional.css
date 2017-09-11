@@ -1708,6 +1708,10 @@ body {
 .cid-qusULXbuT4 {
   background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
 }
+.cid-qusULXbuT4 .mbr-text,
+.cid-qusULXbuT4 .mbr-section-btn I {
+  color: #ffffff;
+}
 .cid-qut4MQIqu7 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1752,41 +1756,9 @@ body {
   margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-qut6Hlf1co {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qut6Hlf1co h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qut6Hlf1co p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-qut6Hlf1co .card-img {
-  width: auto;
-}
-.cid-qut6Hlf1co .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-qut6Hlf1co .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-qut6Hlf1co .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-qut6Hlf1co .card-img span {
-    font-size: 40px !important;
-  }
+.cid-qut4MQIqu7 .card-title,
+.cid-qut4MQIqu7 .card-img {
+  text-align: center;
 }
 .cid-qut79YDa9y {
   padding-top: 45px;
