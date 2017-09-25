@@ -1,2 +1,0 @@
-# LAHRSite
-GitHub Pages
